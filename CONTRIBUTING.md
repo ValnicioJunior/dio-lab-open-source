@@ -33,21 +33,21 @@ git clone https://github.com/SEU_USERNAME/dio-lab-open-source.git
 ```
 Pressione enter, e uma cópia do seu fork no GitHub será criada localmente.
 
-### 3) Crie uma nova **branch** 
-Utilize o comando `git checkout -b` para criar e alternar para a nova branch e nomeie-a como `feat/community/SEU_USERNAME`
-> Exemplo: `git checkout -b feat/community/falvojr`
+### 3) Crie uma Nova Branch
+Utilize o comando git checkout -b para criar e alternar para uma nova branch. Nomeie-a como feat/community/SEU_USERNAME.
 
-### 4) Crie o seu Profile README
- Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub:
+Exemplo: git checkout -b feat/community/falvojr
 
-> Exemplo: `community/falvojr.md`
+### 4) Crie seu Profile README
+Dentro da pasta community, crie um arquivo em Markdown (com a extensão .md) e nomeie-o com o mesmo nome do seu usuário no GitHub:
 
-#### 4.1) Desenvolva o seu Profile README
-Para isso, você pode se inspirar nos exemplos no diretório [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils)
+Exemplo: community/falvojr.md
 
-### 5) Adicione suas alterações à "staging area" 
-Utilize o comando `git add community/SEU_USERNAME.md` para adicionar sua alteração (nesse caso o arquivo markdown criado)  à "staging area" no Git.
+### 4.1) Desenvolva seu Profile README
+Inspire-se nos exemplos no diretório community e adicione alguns dos utilitários presentes na pasta utils.
 
+### 5) Adicione suas Alterações à "Staging Area"
+Utilize o comando git add community/SEU_USERNAME.md para adicionar sua alteração (o arquivo Markdown que você criou) à "staging area" no Git.
 ### 6) Crie um Commit
 Crie um commit e adicione a mensagem indicando a adição do seu perfil:
 ```bash
