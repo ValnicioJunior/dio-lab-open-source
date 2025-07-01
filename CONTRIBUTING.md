@@ -23,8 +23,7 @@
 ### 1) Faça um **Fork** deste Repositório
 Acesse a página principal do repositório e clique no botão "Fork" no canto superior direito da página.
 > [!NOTE]  
-> Um "fork" no GitHub é uma cópia de um repositório que pode ser criada por qualquer usuário. <br>
-> Para mais detalhes, reveja a aula ou acesse a documentação do GitHub: [Criar fork de um repositório](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
+> Um "fork" no GitHub é basicamente uma cópia do repositório que você pode modificar sem afetar o projeto original. Para mais detalhes, revise a aula ou acesse a documentação do GitHub: [Criar fork de um repositório](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
 
 ### 2) Clone localmente
 Abra o seu Git Bash e digite o comando `git clone` seguido da URL do seu fork para clonar o seu repositório localmente. Por exemplo:
